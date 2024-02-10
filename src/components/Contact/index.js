@@ -138,13 +138,13 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // emailjs.sendForm('service_tox7kqs', 'template_nv7k7mj', form.current, 'SybVGsYS52j2TfLbi')
-    //   .then((result) => {
-    //     setOpen(true);
-    //     form.current.reset();
-    //   }, (error) => {
-    //     console.log(error.text);
-    //   });
+    emailjs.sendForm('service_zhw08bx', 'template_2312xvi', form.current, 'PW-6KUQ51QvQu4_UI')
+    .then((result) => {
+    setOpen(true);
+    form.current.reset();
+    }, (error) => {
+    console.log(error.text);
+    });
   };
 
   return (
