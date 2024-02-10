@@ -331,26 +331,6 @@ export const education = [
 
 export const projects = [
   {
-    id: 11,
-    title: "The Well",
-    date: "May 2023 - Present",
-    description:
-      "The Well is a digital mental health database that matches students in schools with the best online resources in any domain they may struggle with. By creating online digital profiles, each school can have their own “Well” of resources allowing students to get quick access to help instead of scrolling through multitudes of underwhelming resources.",
-    image:
-      "https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fb179d7b7-8b31-42eb-82eb-cc2b1d31a027%2Ff22d8c0c-fb61-47fe-91fe-e16d7fe03616%2FScreenshot_2024-02-02_at_2.46.14_PM.png?table=block&id=b9edf75a-43fa-4e30-930c-6b7c57c7fa3c&spaceId=b179d7b7-8b31-42eb-82eb-cc2b1d31a027&width=2000&userId=b4da4129-1870-4afc-b5b3-089e826396d6&cache=v2",
-    tags: [
-      "React Js",
-      "PostgressSQL",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "React Flow",
-    ],
-    category: "web app",
-    github: "https://www.welfie.com/thewell",
-    webapp: "https://dev.welfie.com/signin",
-  },
-  {
     id: 0,
     title: "Meta Hackathon",
     date: "Dec 2023 - Jan 2024",
@@ -383,6 +363,19 @@ export const projects = [
     category: "web app",
     github: "https://www.sotira.app/dashboard",
     webapp: "https://www.sotira.app/dashboard",
+  },
+  {
+    id: 8,
+    title: "Relexia",
+    date: "Aug 2023",
+    description:
+      "Relexia is a pair of smart augmented reality glasses that can translate text for students with dyslexia. Using a machine learning algorithm and a prediction model to manipulate text in real time, Relexia can help alleviate the mental strain dyslexic students face in school. Pitched  product to judges from Apple, SpaceX, and MIT, and made it to the grand finals in The Knowledge Society’s Global Hackathon (Top 6 of 600+).",
+    image:
+      "https://i.ibb.co/KFdyKN7/Screenshot-2024-02-01-at-3-07-24-PM.png",
+    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
+    category: "machine learning",
+    github: "https://www.loom.com/share/e33bc18176e44f50b662f3954177b2cf?sid=a8581709-5acf-4848-b693-d949aa9cd307",
+    webapp: "https://docs.google.com/presentation/d/1qU1EQ8tyiowu3818KHie_A3apaW8QtbrgI_0KSjHYQQ/edit?usp=sharing",
   },
   {
     id: 1,
@@ -418,17 +411,24 @@ export const projects = [
     webapp: "https://youtube.com/shorts/0xkYtJVvwdE?si=4Kzkye2X8kl4tiV0",
   },
   {
-    id: 8,
-    title: "Relexia",
-    date: "Aug 2023",
+    id: 11,
+    title: "The Well",
+    date: "May 2023 - Present",
     description:
-      "Relexia is a pair of smart augmented reality glasses that can translate text for students with dyslexia. Using a machine learning algorithm and a prediction model to manipulate text in real time, Relexia can help alleviate the mental strain dyslexic students face in school. Pitched  product to judges from Apple, SpaceX, and MIT, and made it to the grand finals in The Knowledge Society’s Global Hackathon (Top 6 of 600+).",
+      "The Well is a digital mental health database that matches students in schools with the best online resources in any domain they may struggle with. By creating online digital profiles, each school can have their own “Well” of resources allowing students to get quick access to help instead of scrolling through multitudes of underwhelming resources.",
     image:
-      "https://i.ibb.co/KFdyKN7/Screenshot-2024-02-01-at-3-07-24-PM.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
-    github: "https://www.loom.com/share/e33bc18176e44f50b662f3954177b2cf?sid=a8581709-5acf-4848-b693-d949aa9cd307",
-    webapp: "https://docs.google.com/presentation/d/1qU1EQ8tyiowu3818KHie_A3apaW8QtbrgI_0KSjHYQQ/edit?usp=sharing",
+      "https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fb179d7b7-8b31-42eb-82eb-cc2b1d31a027%2Ff22d8c0c-fb61-47fe-91fe-e16d7fe03616%2FScreenshot_2024-02-02_at_2.46.14_PM.png?table=block&id=b9edf75a-43fa-4e30-930c-6b7c57c7fa3c&spaceId=b179d7b7-8b31-42eb-82eb-cc2b1d31a027&width=2000&userId=b4da4129-1870-4afc-b5b3-089e826396d6&cache=v2",
+    tags: [
+      "React Js",
+      "PostgressSQL",
+      "Node Js",
+      "Express Js",
+      "Redux",
+      "React Flow",
+    ],
+    category: "web app",
+    github: "https://www.welfie.com/thewell",
+    webapp: "https://dev.welfie.com/signin",
   },
 ];
 
