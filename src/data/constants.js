@@ -10,7 +10,7 @@ export const Bio = {
     "As a product designer living in the LA Metropolitan area, I'm interested in building equitable products and software to solve the world’s biggest problems. Between my interests in product management, assistive technology, and digital marketing, I hope to bring new developments to people in large numbers.",
   github: "https://github.com/nicholasychua",
   resume:
-    "https://drive.google.com/file/d/1zq7_4sBinIX63y2S2ps7iq32_P7L61vl/view?usp=sharingttps://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
+    "https://drive.google.com/file/d/1zq7_4sBinIX63y2S2ps7iq32_P7L61vl/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/nicholas-y-chua",
   twitter: "https://twitter.com/nicholasychua",
   insta: "https://www.instagram.com/nicholaschuas/",
